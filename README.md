@@ -15,4 +15,4 @@ Also, I wanted to learn Android development.
 
 #### Development notes
 
-Much of the development was inspired by the hasCode blog's entry [Managing Background Tasks on Android using the Alarm Manager](http://www.hascode.com/2011/11/managing-background-tasks-on-android-using-the-alarm-manager/) as well as a very helpful [post](http://commonsware.com/blog/2011/07/05/boot-completed-regression.html) regarding the necessity for an actiity in my application.
+Much of the development was inspired by the hasCode blog's entry [Managing Background Tasks on Android using the Alarm Manager](http://www.hascode.com/2011/11/managing-background-tasks-on-android-using-the-alarm-manager/) as well as a very helpful [post](http://commonsware.com/blog/2011/07/05/boot-completed-regression.html) regarding the necessity for an activity in an application that responds to BOOT_COMPLETED.
